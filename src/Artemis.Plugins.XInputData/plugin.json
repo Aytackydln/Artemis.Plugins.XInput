@@ -1,11 +1,11 @@
 {
     "Guid": "0066F907-5ED4-4D58-80CC-9DB6508A7DBF",
     "Name": "XInput",
-    "Description": "Plugin Description",
+    "Description": "Provider XInput data like Battery and Trigger values",
     "Author": "",
     "Website": "",
     "Repository": "",
-    "Icon": "QuestionMark",
+    "Icon": "MicrosoftXboxController",
     "Version": "1.0.0.0",
     "Main": "Artemis.Plugins.XInputData.dll",
     "AutoEnableProperties": true,
