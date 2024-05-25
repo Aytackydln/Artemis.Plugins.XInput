@@ -2,7 +2,7 @@
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis.Plugins.XInput", "Artemis.Plugins.XInput\Artemis.Plugins.XInput.csproj", "{1D236DF9-75F6-4DA1-A839-4E500AFB00C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis.Plugins.XInputData", "Artemis.Plugins.XInputData\Artemis.Plugins.XInputData.csproj", "{1D236DF9-75F6-4DA1-A839-4E500AFB00C6}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution

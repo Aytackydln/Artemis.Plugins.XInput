@@ -1,15 +1,15 @@
 {
     "Guid": "0066F907-5ED4-4D58-80CC-9DB6508A7DBF",
-    "Name": "Plugin Name",
+    "Name": "XInput",
     "Description": "Plugin Description",
     "Author": "",
     "Website": "",
     "Repository": "",
     "Icon": "QuestionMark",
     "Version": "1.0.0.0",
-    "Main": "Artemis.Plugins.XInput.dll",
+    "Main": "Artemis.Plugins.XInputData.dll",
     "AutoEnableProperties": true,
     "RequiresAdmin": false,
-    "Platforms": "Windows,Linux,OSX",
+    "Platforms": "Windows",
     "Api": "1.0.0"
 }
